@@ -32,8 +32,7 @@ const imageAltText = "A nice Developer setup with a desktop.";
 const projectList = [
   {
     title: "Shopper-Dash",
-    description:
-      "An eCommerce Website which let users buy and sell Products.",
+    description: "An eCommerce Website which let users buy and sell Products.",
     url: "https://github.com/tanmayysain/Shopper-Dash",
   },
   {
