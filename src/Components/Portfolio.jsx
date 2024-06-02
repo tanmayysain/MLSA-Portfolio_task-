@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A nice Developer setup with a desktop.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Shopper-Dash",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An eCommerce Website which let users buy and sell Products.",
+    url: "https://github.com/tanmayysain/Shopper-Dash",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Expense_Tracker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An Expense tracker app can help you keep track of the major expenses you have made in a year month-wise.",
+    url: "https://github.com/tanmayysain/expenses-tracker",
   },
   {
-    title: "My Resume Site",
+    title: "Catalogue App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Catalogue App created by flutter which have a catalogue of different Mobile Devices.",
+    url: "https://github.com/tanmayysain/flutter_catalog_1",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Real-Time-Bus-Tracking-System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "By this website you can locate the distance between two points source and destination.",
+    url: "https://github.com/tanmayysain/Real-Time-Tracking-System",
   },
 ];
 
